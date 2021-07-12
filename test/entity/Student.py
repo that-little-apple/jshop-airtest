@@ -1,4 +1,6 @@
 class Student(object):
+    # 类属性
+    name="Student"
 
     def __init__(self, name, score):
         self.__name = name

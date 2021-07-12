@@ -6,3 +6,6 @@ dog.run()
 
 cat = Cat()
 cat.run()
+
+print(type(cat))
+print(dir(cat))
